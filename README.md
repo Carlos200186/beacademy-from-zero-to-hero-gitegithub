@@ -1,1 +1,1 @@
-Conhecendo gi e github
+Conhecendo git e github
